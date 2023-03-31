@@ -15,7 +15,7 @@ This is the main one. It includes:
 
 ## [JetBrains Free Educational Licences](https://www.jetbrains.com/community/education/#students)
 
-Free licences for JetBrains IDEs ([IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/), [CLion](https://www.jetbrains.com/clion/), etc) for non-commercial use. Seriously, these IDEs are great (albeit more complex than VS Code). Redeemable separately or through the [GitHub Student Developer Pack](https://education.github.com/pack).
+Free licences for [JetBrains](https://www.jetbrains.com/) IDEs ([IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/), [CLion](https://www.jetbrains.com/clion/), [etc](https://www.jetbrains.com/products/)) for non-commercial use. Seriously, these IDEs are great (albeit more complex than VS Code). Redeemable separately or through the [GitHub Student Developer Pack](https://education.github.com/pack).
 
 ## [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/)
 
