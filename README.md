@@ -37,10 +37,6 @@ Free trials of services plus some free services. Credit card required, and **usa
 
 Free CDN and DDOS protection, serverless functions, object storage, and static site hosting.
 
-## [Netlify](https://www.netlify.com/)
-
-Free CDN and DDOS protection, serverless functions, and static site hosting.
-
 ## [Vercel](https://vercel.com/)
 
 Free front-end site hosting and serverless functions.
